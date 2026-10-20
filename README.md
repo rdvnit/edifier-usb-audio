@@ -2,6 +2,10 @@
 
 A dependency-free, unofficial native macOS utility for **EDIFIER M60 over USB**. It shows what macOS actually reports, separates the physical USB format from CoreAudio's virtual float format, and lets you explicitly choose an advertised stereo PCM format or output route.
 
+<p align="center">
+  <img src="docs/images/edifier-usb-audio.png" alt="EDIFIER USB Audio: compact dark macOS interface for EDIFIER M60" width="380">
+</p>
+
 **This is an app, not a driver, firmware patch, audio enhancer or EQ.** If your M60 already appears as a verified USB output, macOS is already providing the native USB audio path. A Windows-only list in a manual does not establish that a separate Mac driver is required.
 
 ## Download and install
